@@ -1,0 +1,19 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1,
+h3 {
+  color: #212529;
+}
+
+section img {
+  margin-top: 15px;
+  max-width: 100%;
+}
+
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
